@@ -4,16 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>About</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Blog</title>
 </head>
 <body>
     <a href="/home">home</a>
     <a href="/about">about</a>
     <a href="/blog">blog</a>
     <a href="/contact">contact</a>
-    <h1>ini halaman about</h1>
-    <h3>Owner: {{ $nama }}</h3>
-    <img src="img/espresso.jpg" alt="tesgambar" width="200">
+    <h1>Ini adalah Blog</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, tempore dolorum porro totam dignissimos impedit quasi minus perferendis molestias doloribus! Voluptas itaque facere veritatis saepe!</p>
 </body>
 </html>
